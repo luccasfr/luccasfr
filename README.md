@@ -21,5 +21,3 @@ Analista e Desenvolvedor na [Jerasoft Co](https://www.jerasoft.com.br/), apaixon
 
 ## Contato
 - Email: lucas.ferreira@jerasoft.inf.br
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, oportunidades ou apenas para bater um papo sobre tecnologia!
