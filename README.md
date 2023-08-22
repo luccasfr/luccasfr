@@ -1,7 +1,7 @@
 # Olá, eu sou Lucas Ferreira
 
 ## Sobre mim
-Analista e Desenvolvedor na [Jerasoft Co](https://www.jerasoft.net/), apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida experiência em uma variedade de linguagens e tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender.
+Analista e Desenvolvedor na [Jerasoft Co](https://www.jerasoft.com.br/), apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida experiência em uma variedade de linguagens e tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender.
 
 ## Tecnologias e Ferramentas
 
