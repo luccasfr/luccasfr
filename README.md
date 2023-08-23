@@ -3,6 +3,9 @@
 ## Sobre mim
 Analista e Desenvolvedor na [Jerasoft Co](https://www.jerasoft.com.br/), apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida experiência em uma variedade de linguagens e tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender.
 
+## Educação
+- Graduado em Ciência da Computação pela [PUC Minas - Campus Poços de Caldas](https://www.pucpcaldas.br/)
+
 ## Tecnologias e Ferramentas
 
 ### Linguagens de Programação
