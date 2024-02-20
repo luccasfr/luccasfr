@@ -3,7 +3,7 @@
 ## About me
 Analyst and Developer at [Jerasoft Co](https://www.jerasoft.com.br/), apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida experiência em uma variedade de linguagens e tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender.
 
-## Educação
+## Education
 - Graduated in Comouter Science from [PUC Minas - Campus Poços de Caldas](https://www.pucpcaldas.br/)
 
 ## Technologies and Tools
