@@ -1,7 +1,7 @@
 # Hello, I'm Lucas Ferreira
 
 ## About me
-Analyst and Developer at [Jerasoft Co](https://www.jerasoft.com.br/), apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida experiência em uma variedade de linguagens e tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender.
+Analyst and Developer at [Jerasoft Co](https://www.jerasoft.com.br/), passionate about solving problems and creating innovative solutions. With a solid experience in a variety of languages and technologies, I am always looking for new challenges and opportunities to learn.
 
 ## Education
 - Graduated in Comouter Science from [PUC Minas - Campus Poços de Caldas](https://www.pucpcaldas.br/)
