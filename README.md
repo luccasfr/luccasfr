@@ -4,7 +4,7 @@
 Analyst and Developer at [Jerasoft Co](https://www.jerasoft.com.br/), passionate about solving problems and creating innovative solutions. With a solid experience in a variety of languages and technologies, I am always looking for new challenges and opportunities to learn.
 
 ## Education
-- Graduated in Comouter Science from [PUC Minas - Campus Poços de Caldas](https://www.pucpcaldas.br/)
+- Graduated in Computer Science from [PUC Minas - Campus Poços de Caldas](https://www.pucpcaldas.br/)
 
 ## Technologies and Tools
 
